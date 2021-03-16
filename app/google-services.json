@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "570807865545",
+    "project_id": "appfortaleza-76c9c",
+    "storage_bucket": "appfortaleza-76c9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570807865545:android:678b67762205dd1e2c7d18",
+        "android_client_info": {
+          "package_name": "com.example.appfortaleza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570807865545-abbuch0j8rcdt09dgjqu79dv65mhjebo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsd_CcQsCl5TqHeiDNZ41PLPzjcV0IYgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570807865545-abbuch0j8rcdt09dgjqu79dv65mhjebo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570807865545:android:a22f98dbf6915d662c7d18",
+        "android_client_info": {
+          "package_name": "com.fortaleza.appfortaleza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570807865545-abbuch0j8rcdt09dgjqu79dv65mhjebo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsd_CcQsCl5TqHeiDNZ41PLPzjcV0IYgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570807865545-abbuch0j8rcdt09dgjqu79dv65mhjebo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570807865545:android:8a8f42b0c9d749d12c7d18",
+        "android_client_info": {
+          "package_name": "tecsup.edu.pe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570807865545-abbuch0j8rcdt09dgjqu79dv65mhjebo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsd_CcQsCl5TqHeiDNZ41PLPzjcV0IYgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570807865545-abbuch0j8rcdt09dgjqu79dv65mhjebo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
